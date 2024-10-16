@@ -1,2 +1,5 @@
 # GenerativeAI
-Generative AI Project Class
+
+## Week 2
+# LLM 리뷰
+
