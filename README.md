@@ -1,5 +1,5 @@
 # GenerativeAI
 
-## Week 2
-# LLM 리뷰
+ Week 2
+ LLM 리뷰
 
